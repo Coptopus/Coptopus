@@ -8,6 +8,7 @@ and I have <b><i>A LOT</b></i> to learn, but I believe I have a good grasp on th
 <li> Python </li>
 <li> PHP </li>
 <li> HTML & CSS </li>
+<li> Flutter & Firebase </li>
 </ul>
 
 <h3> ⚡ I want to master </h3>
