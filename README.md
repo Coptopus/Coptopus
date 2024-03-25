@@ -11,6 +11,12 @@ and I have <b><i>A LOT</b></i> to learn, but I believe I have a good grasp on th
 <li> Flutter & Firebase </li>
 </ul>
 
+<h3>🔭 I’m currently working on </h3>
+<ul>
+<li> <b>Bookit:</b> an online reservation system using flutter and firebase.</li>
+</ul>
+
+
 <h3> ⚡ I want to master </h3>
 <ul>
 <li> Problem solving skills </li>
