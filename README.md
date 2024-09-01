@@ -1,21 +1,24 @@
 <h1> Ye-llo, guys! </h1>
 <p> My name's Mohammed Safwat (Aka Coptopus :cop::octopus:) </p>
-I am a <b>computer science student</b> in the <b>Information Systems department</b> in the <b>Modern university of Technology and Information (MTI)</b>,
+I graduated in <b>computer science</b> in the <b>Information Systems department</b> in the <b>Modern university of Technology and Information (MTI)</b>,
 and I have <b><i>A LOT</b></i> to learn, but I believe I have a good grasp on the basics for now, thanks to my college curricula.
+And soon enough I'll apply for a <b>Teacher's assistant</b> position in <b>MTI</b> for a while!
 
-<h3> 🌱 I’m currently learning </h3>
+<h3> 🌱 I have basic knowledge of</h3>
 <ul>
+<li> C++ </li>
+<li> Java </li>
 <li> Python </li>
 <li> PHP </li>
 <li> HTML & CSS </li>
 <li> Flutter & Firebase </li>
 </ul>
 
-<h3>🔭 I’m currently working on </h3>
+<h3>🔭 I have dabbled in</h3>
 <ul>
-<li> <b>Bookit:</b> an online reservation system using flutter and firebase.</li>
+<li> Cybersecurity </li>
+<li> Fullstack Web development </li>
 </ul>
-
 
 <h3> ⚡ I want to master </h3>
 <ul>
