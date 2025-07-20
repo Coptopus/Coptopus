@@ -2,7 +2,7 @@
 <p> My name's Mohammed Safwat (Aka Coptopus :cop::octopus:) </p>
 I graduated in <b>computer science</b> in the <b>Information Systems department</b> in the <b>Modern university of Technology and Information (MTI)</b>,
 and I have <b><i>A LOT</b></i> to learn, but I believe I have a good grasp on the basics for now, thanks to my college curricula.
-I am currently a <b>Teaching assistant</b> at <b>MTI</b> for the time being!
+I used to be a <b>Teaching assistant</b> at <b>MTI</b> for some time, quite an experience!
 
 <h3> 🌱 I have basic knowledge of</h3>
 <ul>
